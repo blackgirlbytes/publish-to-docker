@@ -1,0 +1,26 @@
+{
+    "$schema": "https://aka.ms/codetour-schema",
+    "title": "Create a GitHub Action",
+    "steps": [
+      {
+        "file": "app.js",
+        "line": 2,
+        "description": "Hey! 👋 Welcome to Create a GitHub Action workshop. We will learn how to create an action that publishes our code as a docker image on GitHub's container registry\n\nClick the `Next` link below to keep learning 👇"
+      },
+      {
+        "file": "app.js",
+        "line": 1,
+        "description": "Create a console log that prints your handle like `console.log(blackgirlbytes)`"
+      },
+      {
+        "file": "publish.yml",
+        "line": 22,
+        "description": "Great job at adding your handle to the javascript file. Replace all the mentions of blackgirlbytes to your handle"
+      },
+      {
+        "file": "publish.yml",
+        "line": 24,
+        "description": "Push your code to the main branch to complete the mission!"
+      }
+    ]
+  }
